@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "name": "Nations",
+  "minecraft": "1.20.1",
+  "forge": "47.4.0",
+  "mods": [
+    {
+      "project_id": "MBAkmtvl",
+      "version_id": "dDN38ae7",
+      "path": "mods/balm-forge-1.20.1-7.3.44.jar"
+    },
+    {
+      "project_id": "LOpKHB2A",
+      "version_id": "Y0IgdaoP",
+      "path": "mods/waystones-forge-1.20.1-14.1.21.jar"
+    },
+    {
+      "project_id": "7tEfOcA7",
+      "version_id": "EAG7rQQs",
+      "path": "mods/mezz_config-1.20.1-forge-0.6.8.jar"
+    },
+    {
+      "project_id": "u6dRKJwZ",
+      "version_id": "MoqLPMQn",
+      "path": "mods/jei-1.20.1-forge-15.74.0.228.jar"
+    },
+    {
+      "project_id": "9s6osm5g",
+      "version_id": "t8TXrZvZ",
+      "path": "mods/cloth-config-11.1.136-forge.jar"
+    },
+    {
+      "project_id": "vvuO3ImH",
+      "version_id": "IPQlZkz1",
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar"
+    },
+    {
+      "project_id": "lfHFW1mp",
+      "version_id": "HWDC99DO",
+      "path": "mods/journeymap-forge-1.20.1-6.0.7.jar"
+    }
+  ]
+}
