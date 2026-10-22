@@ -1,3 +1,67 @@
+{
+  "version": 2,
+  "name": "Nations",
+  "minecraft": "1.20.1",
+  "forge": "47.4.10",
+  "files": [
+    {
+      "type": "mod",
+      "project": "SzzJttH8",
+      "version": "AzCBJlex"
+    },
+    {
+      "type": "mod",
+      "project": "aC3cM3Vq",
+      "version": "7JVXOe3K"
+    },
+    {
+      "type": "mod",
+      "project": "lhGA9TYQ",
+      "version": "1MKTLiiG"
+    },
+    {
+      "type": "mod",
+      "project": "gedNE4y2",
+      "version": "xe2EVE6q"
+    },
+    {
+      "type": "mod",
+      "project": "R2OftAxM",
+      "version": "SiIpcZzM"
+    },
+    {
+      "type": "mod",
+      "project": "AOEDs9Al",
+      "version": "GizE27iH"
+    },
+    {
+      "type": "mod",
+      "project": "tIm2nV03",
+      "version": "WUzj4tgJ"
+    },
+    {
+      "type": "mod",
+      "project": "rLLJ1OZM",
+      "version": "6rPDKAT8"
+    },
+    {
+      "type": "mod",
+      "project": "rU60qFq2",
+      "version": "bKb3JgIY"
+    },
+    {
+      "type": "mod",
+      "project": "G1hIVOrD",
+      "version": "OhsHaCcW"
+    },
+    {
+      "type": "mod",
+      "project": "eYsYyxH0",
+      "version": "CLUuJ1It"
+    },
+    {
+      "type": "mod",
+      "project": "ordsPcFz",
       "version": "Zsh14XeQ"
     },
     {
