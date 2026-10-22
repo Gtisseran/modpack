@@ -181,6 +181,26 @@
       "type": "mod",
       "project": "xaeros-world-map",
       "version": "KtEupJvB"
+    },
+    {
+      "type": "shader",
+      "project": "complementary-reimagined",
+      "version": "Bqen1mJX"
+    },
+    {
+      "type": "shader",
+      "project": "solas-shader",
+      "version": "XE9yh7pS"
+    },
+    {
+      "type": "resourcepack",
+      "project": "default-dark-mode",
+      "version": "SEAHWiIS"
+    },
+    {
+      "type": "resourcepack",
+      "project": "ping-color",
+      "version": "p2d5XHtx"
     }
   ]
 }
