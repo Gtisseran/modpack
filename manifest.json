@@ -2,42 +2,187 @@
   "version": 1,
   "name": "Nations",
   "minecraft": "1.20.1",
-  "forge": "47.4.0",
-  "mods": [
+  "forge": "47.4.10",
+  "files": [
     {
-      "project_id": "MBAkmtvl",
-      "version_id": "dDN38ae7",
-      "path": "mods/balm-forge-1.20.1-7.3.44.jar"
+      "path": "mods/tacz-1.20.1-1.1.8-hotfix2.jar",
+      "url": "https://cdn.modrinth.com/data/SzzJttH8/versions/AzCBJlex/tacz-1.20.1-1.1.8-hotfix2.jar",
+      "sha512": "fa8b4bd4a7a0835092bccbb28a18461642d4e7a2f6fdb762ac4978d4dbc31d1f0f61c685343a61607dce3d1cd89f4314b61a9f8811960b9d0604692ac3fff96d",
+      "size": 57472579
     },
     {
-      "project_id": "LOpKHB2A",
-      "version_id": "Y0IgdaoP",
-      "path": "mods/waystones-forge-1.20.1-14.1.21.jar"
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+      "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7",
+      "size": 580602
     },
     {
-      "project_id": "7tEfOcA7",
-      "version_id": "EAG7rQQs",
-      "path": "mods/mezz_config-1.20.1-forge-0.6.8.jar"
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "sha512": "cb9f6a3aaa943823a85fdd716ddb3c7623af2b3520926c3a98d170c52d31908894808fb61c52bea39bae622dbab59d50b4bad56f7ca0533a9c3350d412c33729",
+      "size": 181437
     },
     {
-      "project_id": "u6dRKJwZ",
-      "version_id": "MoqLPMQn",
-      "path": "mods/jei-1.20.1-forge-15.74.0.228.jar"
+      "path": "mods/FarmersDelight-1.20.1-1.3.4.jar",
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/SiIpcZzM/FarmersDelight-1.20.1-1.3.4.jar",
+      "sha512": "932ae0ab95fa0755bb5a79fbf1d1e31d0e86f3c0f5186796ed06973a3019a618ee8c66a4eae5b901909aed6232abb2bd3b1ff0e1905f74fc70644fada94a80b5",
+      "size": 3311051
     },
     {
-      "project_id": "9s6osm5g",
-      "version_id": "t8TXrZvZ",
-      "path": "mods/cloth-config-11.1.136-forge.jar"
+      "path": "mods/uilib-0.3.6-forge.jar",
+      "url": "https://cdn.modrinth.com/data/AOEDs9Al/versions/GizE27iH/uilib-0.3.6-forge.jar",
+      "sha512": "e6578b9ab25ca893f97a933c2e83e84c18788b377ddeff22459a2c423da314e0bf67748846af5edfdcf6ad733d9b25e94419b4af6cf69155c86d08d78fdd3acb",
+      "size": 204649
     },
     {
-      "project_id": "vvuO3ImH",
-      "version_id": "IPQlZkz1",
-      "path": "mods/curios-forge-5.14.1+1.20.1.jar"
+      "path": "mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+      "url": "https://cdn.modrinth.com/data/tIm2nV03/versions/WUzj4tgJ/ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+      "sha512": "fdb52fb1faf5522c97820480e436216114c931672d3b0ff1c26c64a5bfd350d3599df31dcb14a5dba49236d8fac3d99b4bb96b0a84d55443e282754d687536f7",
+      "size": 12129396
     },
     {
-      "project_id": "lfHFW1mp",
-      "version_id": "HWDC99DO",
-      "path": "mods/journeymap-forge-1.20.1-6.0.7.jar"
+      "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/6rPDKAT8/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha512": "37a13eaa68579dd45204ebdfa43b2909123a2e5e875a2ca51da0d0882d4c524be1e95fce4bb26db21901b7d100ad9363968814e3566d44b5afce8fb8e8088057",
+      "size": 64187
+    },
+    {
+      "path": "mods/itemrestrictions-1.2.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/rU60qFq2/versions/bKb3JgIY/itemrestrictions-1.2.1-forge.jar",
+      "sha512": "fa101e975b3488a74f56a7326d8d3eb7b90767e129baeb9fd81f67db73e1b6de4acbd931d30b83a952d452d32c220a05c4da7ba90cd459ec1f699946b41aa4cc",
+      "size": 63999
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha512": "8dbe951d431545a7d18081a8b11a52a248e6d8ff9862ae6462b0f5a6f57ff523af12704c3adb071ae99a7c5c1dd895bd7875dea59f9c4956c1597a668b6e8820",
+      "size": 432753
+    },
+    {
+      "path": "mods/gundb-2.2.2-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/eYsYyxH0/versions/CLUuJ1It/gundb-2.2.2-1.20.1.jar",
+      "sha512": "3d20e4ee43ecfdd3a3bd0a4afccc9c8fbfd9f94a7c3bbbb573ce6b0c00a040fc3b6cdad355c474582f98f7309e0eb959c9928fb03b846532f11b26b3a65f054d",
+      "size": 632182
+    },
+    {
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
+      "sha512": "767f40030ed4b370a3838fa65ae1b79974f31979342fff7cc834a0d5f39eb28612642519352ff2a1dd5226ce1f745f8b3156ee3625ffde01219137d064c1ee40",
+      "size": 7442998
+    },
+    {
+      "path": "mods/Immersive Vehicles-1.20.1-24.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/BCzBuhJ5/versions/xBHmZvmC/Immersive%20Vehicles-1.20.1-24.0.0.jar",
+      "sha512": "9f5acbef86883347a9a14f28efdbff29e8817e131bf2ef99897a90842f169dbd4a9428d35480fded1d8a5f0e4931d5711877244782d5cab59b5cbd903a960199",
+      "size": 6254897
+    },
+    {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "url": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar",
+      "sha512": "b50280057926d750f9ffbf6a8df36deb37529356895f6bf59f25d272ecf69afccec65ec1a5c3a8bfad24f9475c15b93c5ec4666447b1fce26a90c41445bbfb04",
+      "size": 26350793
+    },
+    {
+      "path": "mods/VEB-1.1.11-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/BPmM9RTx/versions/lUAacLNx/VEB-1.1.11-1.20.1.jar",
+      "sha512": "cadbe296efe16c71b6eddf531afddfceeb5d8862c77535123c2dd0f9938bbb64db03779a26475b7aaf2601c855200e4689efee1e7b071b04ee69c871defc27f2",
+      "size": 66073559
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "sha512": "476595aacc7c66a0cf7bcd56143975122ea54ae4c5b61a232d3b0b9b1e3c013575efcc05de31a5d2c4e129542bfd8ae255a25d1486a4e08961cc4a303940fd19",
+      "size": 206584
+    },
+    {
+      "path": "mods/arc-1.7.2-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/H3eKhxi7/versions/oLANnkRd/arc-1.7.2-1.20.1-forge.jar",
+      "sha512": "5498b282f12e30fa2f6a2c4d47ca5ad84b22167c1cd3babd0ab8b44f404893feb73a67a93edc43f0d3bec9cc58c61b02f3bf1c0c07561aced3323cdf1cc695a7",
+      "size": 431730
+    },
+    {
+      "path": "mods/IAV-1.1.11-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/x99uA7Bu/versions/OqHpsCYj/IAV-1.1.11-1.20.1.jar",
+      "sha512": "7844f3325ea994c46c6576eab46eae7b56cf25b041ae9e0a71f3a12cb6ff0f7d70fc8f8456688abd47619d3be2f1ebf9c363b61a221ecf5755539e34b68f5cb0",
+      "size": 49393551
+    },
+    {
+      "path": "mods/Aquaculture-1.20.1-2.5.7.jar",
+      "url": "https://cdn.modrinth.com/data/Vl1uNAuy/versions/wNiFoROs/Aquaculture-1.20.1-2.5.7.jar",
+      "sha512": "0ce772a8c8379ab5c38b6a6db05d57d5c1764c97d66102ea1ca57e98011dcc6294f38523f0b34ba9f571ff591c9c6e40c5f6ddcaea32b60dac6bd570093b4ed3",
+      "size": 601839
+    },
+    {
+      "path": "mods/superbwarfare-0.8.9.2-mc1.20.1-65d985a64-all.jar",
+      "url": "https://cdn.modrinth.com/data/Cd3DYqzn/versions/81Iyv9ao/superbwarfare-0.8.9.2-mc1.20.1-65d985a64-all.jar",
+      "sha512": "985e0a3f02deddfaec95db72a3761994030fc2b72ccd53e90c0265c59d9467e09fabac111b1ab1d777b4a66c03e1fa3f9f58c963c471ef40462cf25573bbe4ad",
+      "size": 42118965
+    },
+    {
+      "path": "mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/6NG8MGVh/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+      "sha512": "e47eb9baa6c54921f2bd2a7fd481f9b44c041a67060f633fa60074c44b67505d9cf8d5e8549713f7ea3ec51edaf1559e87d7b6e06932158b257f71a1cc0e2eb4",
+      "size": 2096322
+    },
+    {
+      "path": "mods/watut-forge-1.20.1-1.2.3.jar",
+      "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/GpiXMxvP/watut-forge-1.20.1-1.2.3.jar",
+      "sha512": "80be5011a6f3a933bf87cc1815febde79e915a9fb3d2ff304bfda199ad8a09e5acb32b91dc6a56db4765209c83ca977870b11bc7dbfeb7c4efa0fda6cc370386",
+      "size": 435496
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.56.0.205.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9jqubC9n/jei-1.20.1-forge-15.56.0.205.jar",
+      "sha512": "1306fe15c81d54aa9ff8f3d9f04812c0d61ffaaae433c29621f926db8f8e2c898669ccdd99e025849859d38b7a2eac170c466390b467f4dfa77542b5dbdd1678",
+      "size": 1778129
+    },
+    {
+      "path": "mods/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "url": "https://cdn.modrinth.com/data/HXF82T3G/versions/zAvWfIlG/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "sha512": "cc8aab089379484994f45224804d60bce78020880cdf595f36e0f1514d0decc4faab450ac26f304703311515aa548b75b24d339008fc0cf383b7dd0da853a9fc",
+      "size": 21800460
+    },
+    {
+      "path": "mods/citadel-2.6.3-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/lTAAe4sZ/citadel-2.6.3-1.20.1.jar",
+      "sha512": "42e3fa0ddefb1ebdbba4242d81caede834cd0bbd96e4e90b12b2157a5b07c68b625f64046de1f9e1ad4d6056d3536e17207be5f4b24960582052d713b13f22c0",
+      "size": 3185275
+    },
+    {
+      "path": "mods/jobsplus-1.3.10-forge.jar",
+      "url": "https://cdn.modrinth.com/data/hxGLlCnq/versions/UIxSglQx/jobsplus-1.3.10-forge.jar",
+      "sha512": "52301e2fceddc90786e33bfc16f57c64faa1812cc4bba7b13fb9755102a020b17f0bfffbf32d23189b1d7c23ff6d4805dbaf64b22735f852e552ef8bb7ce6016",
+      "size": 407045
+    },
+    {
+      "path": "mods/jobsplustools-1.2-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/DVunHUgc/versions/fzt237Sv/jobsplustools-1.2-1.20.1-forge.jar",
+      "sha512": "13fd63558e43e45e1a315636c136105b736517338f8786781a2d9753b62645bca00de47de15700278d652ad75ebff083a16c98d9c3ab1019e3be98c61419e1ce",
+      "size": 224875
+    },
+    {
+      "path": "mods/explosives_betaV0.1.7.15-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Gtisseran/modpack/main/overrides/mods/explosives_betaV0.1.7.15-forge-1.20.1.jar",
+      "sha512": "0f8d3bd5c3f0d76f715f175cc5ef0e92e99a4b93c1777d8f9de83117bb3837ede1d75eb922acc3fccd29ce3a4c49b9c6197a480f118614e5a4f4e1468ecdad9d",
+      "size": 1913460
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/Gtisseran/modpack/main/overrides/mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha512": "e3ddb9b3688c5dc7e32befe5b7849447acf08e7f839c453e2e7034dd01e194118a6a496205aa89dba797709fec0c06b8ea4680536ef6b33fb0c29a976c09d576",
+      "size": 1038209
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://raw.githubusercontent.com/Gtisseran/modpack/main/overrides/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha512": "ef0c98e3d652f420a08a8d4205661ecb61c990ff19fabe04b9a0334b6a1bc671079dde74199a847e25df96f2a8262a35f37a0fca3c8fec95f7139074734ff8f5",
+      "size": 107532
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "url": "https://raw.githubusercontent.com/Gtisseran/modpack/main/overrides/mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "sha512": "e3c262c90114c4a7a6d76f384a3a935cfea8ecb3a71d5ef563de8739ba866769fcfe52bb9078a6149d7a55b0041c7426f8332bda8acc73ae99f7795bffeef191",
+      "size": 4923439
     }
   ]
 }
