@@ -112,7 +112,7 @@
     {
       "type": "mod",
       "project": "u6dRKJwZ",
-      "version": "9jqubC9n"
+      "version": "MoqLPMQn"
     },
     {
       "type": "mod",
@@ -181,6 +181,11 @@
       "type": "mod",
       "project": "xaeros-world-map",
       "version": "KtEupJvB"
+    },
+    {
+      "type": "mod",
+      "project": "mouse-tweaks",
+      "version": "7JVXOe3K"
     },
     {
       "type": "shader",
