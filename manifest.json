@@ -1,4 +1,4 @@
-{
+﻿{
   "version": 2,
   "name": "Nations",
   "minecraft": "1.20.1",
@@ -112,7 +112,7 @@
     {
       "type": "mod",
       "project": "u6dRKJwZ",
-      "version": "MoqLPMQn"
+      "version": "9jqubC9n"
     },
     {
       "type": "mod",
@@ -205,6 +205,62 @@
       "type": "shader",
       "project": "EpQFjzrQ",
       "version": "XE9yh7pS"
+    },
+    {
+      "type": "mod",
+      "project": "GmjmRQ0A",
+      "version": "KWLI8Ng7"
+    },
+    {
+      "type": "mod",
+      "project": "LNytGWDc",
+      "version": "8amzvn9x"
+    },
+    {
+      "type": "mod",
+      "project": "UT2M39wf",
+      "version": "LlMxIysb"
+    },
+    {
+      "type": "mod",
+      "project": "sMvUb4Rb",
+      "version": "e9gaSRMd"
+    },
+    {
+      "type": "mod",
+      "project": "ZzjhlDgM",
+      "version": "7Uk6lWkU"
+    },
+    {
+      "type": "mod",
+      "project": "kU1G12Nn",
+      "version": "9LgyB6Yb"
+    },
+    {
+      "type": "mod",
+      "project": "FTeXqI9v",
+      "version": "7vnwbouk"
+    },
+    {
+      "type": "mod",
+      "project": "USgVjXsk",
+      "version": "ZNOx0jhg"
+    },
+    {
+      "type": "mod",
+      "project": "TyCTlI4b",
+      "version": "HEEmP5R4"
+    },
+    {
+      "type": "mod",
+      "project": "nmoqTijg",
+      "version": "kflpbKPn"
+    },
+    {
+      "type": "shader",
+      "project": "R6NEzAwj",
+      "version": "B1kyfoUZ"
     }
   ]
 }
+
