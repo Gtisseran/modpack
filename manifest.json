@@ -143,24 +143,18 @@
     },
     {
       "type": "mod",
-      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
-      "url": "https://raw.githubusercontent.com/Gtisseran/modpack/main/overrides/mods/geckolib-forge-1.20.1-4.8.4.jar",
-      "sha512": "e3ddb9b3688c5dc7e32befe5b7849447acf08e7f839c453e2e7034dd01e194118a6a496205aa89dba797709fec0c06b8ea4680536ef6b33fb0c29a976c09d576",
-      "size": 1038209
+      "project": "geckolib",
+      "version": "aC5KMoNg"
     },
     {
       "type": "mod",
-      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
-      "url": "https://raw.githubusercontent.com/Gtisseran/modpack/main/overrides/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
-      "sha512": "ef0c98e3d652f420a08a8d4205661ecb61c990ff19fabe04b9a0334b6a1bc671079dde74199a847e25df96f2a8262a35f37a0fca3c8fec95f7139074734ff8f5",
-      "size": 107532
+      "project": "terrablender",
+      "version": "zGconCHG"
     },
     {
       "type": "mod",
-      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
-      "url": "https://raw.githubusercontent.com/Gtisseran/modpack/main/overrides/mods/voicechat-forge-1.20.1-2.6.22.jar",
-      "sha512": "e3c262c90114c4a7a6d76f384a3a935cfea8ecb3a71d5ef563de8739ba866769fcfe52bb9078a6149d7a55b0041c7426f8332bda8acc73ae99f7795bffeef191",
-      "size": 4923439
+      "project": "simple-voice-chat",
+      "version": "S11m0QIb"
     },
     {
       "type": "mod",
